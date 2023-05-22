@@ -1,4 +1,4 @@
-# Tower_Of_Hanoi-JavaScript
+# Tower_Of_Hanoi
 A program which solves the mathematical puzzle, Tower of Hanoi.
 
 What is Tower of Hanoi?
